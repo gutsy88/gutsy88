@@ -91,8 +91,6 @@ http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream
 https://liveanevia.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd
 
 
-
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="TV Nasional Indonesia" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_116.jpg",NET
@@ -384,14 +382,7 @@ http://rr1.dens.tv/h/h15/index.m3u8
 
 
 
-
-
-
 @@@@@@@ PENGETAHUAN UMUM @@@@@@@
-
-
-#EXTINF:-1 group-title="Pengetahuan Umum",SUBSCRIBE Aziz Tabargot Comeback
-https://dl.dropboxusercontent.com/s/bhpfob3xyin2ygm/VID_20220516082049.mp4?dl=0.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wTsw-FydW/bisnet-adventure-4k.png" group-title="Pengetahuan Umum", Bisnet Adventure 4K
@@ -481,9 +472,6 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2
 @@@@@@@ ANAK2 & KARTUN @@@@@@@
 
 
-#EXTINF:-1 group-title="Anak² & Kartun",SUBSCRIBE Aziz Tabargot Comeback
-https://dl.dropboxusercontent.com/s/bhpfob3xyin2ygm/VID_20220516082049.mp4?dl=0.m3u8
-
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -560,10 +548,6 @@ https://legochannel-roku.amagi.tv/playlist.m3u8
 @@@@@@@ ANIME @@@@@@@
 
 
-#EXTINF:-1 group-title="Anime",SUBSCRIBE Aziz Tabargot Comeback
-https://dl.dropboxusercontent.com/s/bhpfob3xyin2ygm/VID_20220516082049.mp4?dl=0.m3u8
-
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="Anime" tvg-logo="https://www.mncvision.id/userfiles/image/channel/Animax_150x150.png",Animax
@@ -577,10 +561,6 @@ http://rr1.dens.tv/h/h02/01.m3u8?chname=ANIPLUS_HD
 
 
 @@@@@@@ MOVIES @@@@@@@
-
-
-#EXTINF:-1 group-title="Movies",SUBSCRIBE Aziz Tabargot Comeback
-https://dl.dropboxusercontent.com/s/bhpfob3xyin2ygm/VID_20220516082049.mp4?dl=0.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -761,9 +741,6 @@ http://kunyak.my.id/sok/starchinesechannel.m3u8
 
 @@@@@@@ MUSIC @@@@@@@
 
-
-#EXTINF:-1 group-title="Musik",SUBSCRIBE Aziz Tabargot Comeback
-https://dl.dropboxusercontent.com/s/bhpfob3xyin2ygm/VID_20220516082049.mp4?dl=0.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
