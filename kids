@@ -150,7 +150,6 @@ http://103.16.220.69:1935/golive/livestream/playlist.m3u8
 
 
 
-
 @@@@@@@ BERITA @@@@@@@
 
 
@@ -472,7 +471,6 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2
 @@@@@@@ ANAK2 & KARTUN @@@@@@@
 
 
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="Anak² & Kartun" tvg-logo="https://www.mncvision.id/userfiles/image/channel/baby_tv.png",Baby TV Asia
@@ -737,8 +735,6 @@ http://kunyak.my.id/sok/starchinesechannel.m3u8
 
 
 
-
-
 @@@@@@@ MUSIC @@@@@@@
 
 
@@ -868,8 +864,6 @@ https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
 
 
 
-
-
 @@@@@@@ SPORTS @@@@@@@
 
 
@@ -976,7 +970,6 @@ https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Sports",Sky Sport 1
 http://sverigeplay.tv/play/live.php?mac=00:1A:79:61:11:FB&stream=11717&extension=ts
-
 
 
 
