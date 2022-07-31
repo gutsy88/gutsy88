@@ -380,6 +380,12 @@ http://playlist.urfan.web.id/uq2663/h/h22/01.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" group-title="Hiburan & Gaya Hidup" tvg-url="" tvg-logo="https://rubbyguntara.github.io/src/img/Rock_Extreme.png",Rock Extreme
 http://rr1.dens.tv/h/h15/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19974578_ico.png?ts=1654806875" group-title="IPTV",FASHION TV
+https://fashiontv-fashiontv-2-es.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/LQqABbX.png?v=1.0.0.1" group-title="TV Lokal" tvg-id="Fashion TV Midnight Secrets" tvg-name="Fashion TV HD", Fashion TV Midnight Secrets HD
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
+
 
 
 @@@@@@@ PENGETAHUAN UMUM @@@@@@@
@@ -736,9 +742,6 @@ http://kunyak.my.id/sok/starchinesechannel.m3u8
 
 
 
-
-
-
 @@@@@@@ MUSIC @@@@@@@
 
 
@@ -930,6 +933,9 @@ https://liveanevia.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 #EXTINF:-1 group-title="Sports" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/media-upload/1634257305_thumb-spotv-2.png",SPOTV 2
 https://liveanevia.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19600629_ico.png?ts=1654805997" group-title="IPTV",NBA TV
+http://66.70.176.103:8081/USA%7CNBATV/USA%7CNBATV/chunks.m3u8
+
 
 #EXTINF:-1 tvg-ID="" tvg-name="TVRI SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1200px-TVRILogo2019.svg.png" group-title="Sports",TVRI SPORT
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
@@ -973,6 +979,7 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(18564c27-ff44-4
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://wrestlingheadlines.com/wp-content/uploads/2021/06/impact-wrestling-logo.jpg",IMPACT! Wrestling
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
+
 
 #EXTINF:0 tvg-id="ext" group-title="Sports",Sky Sport 1
 http://sverigeplay.tv/play/live.php?mac=00:1A:79:61:11:FB&stream=11717&extension=ts
@@ -1101,7 +1108,3 @@ http://video2.onlivestreaming.net/saktitv/livestream/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/WHeb9Yt.png" group-title="TV Lokal", Duta TV
 https://v2.siar.us/dutatv/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/LQqABbX.png?v=1.0.0.1" group-title="TV Lokal" tvg-id="Fashion TV Midnight Secrets" tvg-name="Fashion TV HD", Fashion TV Midnight Secrets HD
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
-
