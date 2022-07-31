@@ -221,6 +221,16 @@ https://liveanevia.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 https://bit.ly/3t7HM45
 
 
+#EXTINF:-1 tvg-logo="" group-title="Sports", Usee Sports 1
+https://winhometv.xyz/USEE/mpd.m3u8?channel=useesport
+http://103.102.15.12:8899/stream/channelid/711800493?ticket=CA5272A94BD173E4C6DC2C8388EC911CD6C6A075
+
+
+#EXTINF:-1 tvg-logo="" group-title="Sports",Usee Sports 2
+https://winhometv.xyz/USEE/mpd.m3u8?channel=useesport
+https://winhometv.xyz/USEE/mpd.m3u8?channel=useesports2
+
+
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19600629_ico.png?ts=1654805997" group-title="Sports",NBA TV
 http://66.70.176.103:8081/USA%7CNBATV/USA%7CNBATV/chunks.m3u8
 
@@ -877,6 +887,11 @@ http://rr1.dens.tv/h/h02/01.m3u8?chname=ANIPLUS_HD
 
 @@@@@@@ MUSIC @@@@@@@
 
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 group-title="Music" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_91.jpg",Life
+https://liveanevia.mncnow.id/live/eds/Life/sa_dash_vmx/Life.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
