@@ -1,5 +1,9 @@
-#EXTINF:-1 group-title="INDONESIA",INDOSIAR
-http://rr2.dens.tv/s/s04/index.m3u8
+
+#EXTINF:-1 tvg-id="sctv.id" tvg-name="sctv" tvg-logo="https://i.ibb.co/dB1v6LR/sctvFIX.png" group-title="Lokal",SCTV HD
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a4446503011668def857b1c03bafabba51
+
+#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar" tvg-logo="https://i.ibb.co/m8bVM26/indosiar-FIX.png" group-title="Lokal",INDOSIAR HD
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d69446503011668def857b1c03bafabba51
 
 
 #EXTINF:0 tvg-id="ext" group-title="SIARAN DIGITAL 3 (MPD)",SEA TODAY
