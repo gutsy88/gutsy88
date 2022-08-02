@@ -41,7 +41,6 @@ https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZqW5ff3y/images-18.jpg" group-title="INDONESIA",SCTV
-/http://210.210.155.35/session/58237d4a-5fd8-11ec-93dc-8efda5123c0b/qwr9ew/s/s04/02.m3u8?app_type=mobile&userid=2m4n6yjvyen&tkn=KRHYTUJF1CXB6NERN2PF249FY9E1XFRK&chname=SCTV
 http://210.210.155.35:80/qwr9ew/s/s04/01.m3u8
 https://visionplus-stream.visionplus.id/live/eds/SCTV-ryzen/sa_hls/SCTV-ryzen.m3u8
 
@@ -319,7 +318,8 @@ http://210.210.155.35:80/qwr9ew/s/s12/01.m3u8
 #EXTINF:-1  tvg-logo="https://images.bisnis-cdn.com/posts/2017/03/04/633955/dens-tv.jpg" group-title="DENS TV", SCTV
 http://210.210.155.35:80/qwr9ew/s/s03/01.m3u8
 
-#EXTINF:-1  tvg-logo="https://images.bisnis-cdn.com/posts/2017/03/04/633955/dens-tv.jpg" group-title="DENS TV", INDOSIAR
+#EXTINF:-1  tvg-logo="https://images.bisnis-cdn.com/posts/2017/03/04/633955/dens-tv.jpg" group-title="DENS TV", 
+
 http://210.210.155.35:80/qwr9ew/s/s04/01.m3u8
 
 #EXTINF:-1  tvg-logo="https://images.bisnis-cdn.com/posts/2017/03/04/633955/dens-tv.jpg" group-title="DENS TV", Sinema Indonesia
