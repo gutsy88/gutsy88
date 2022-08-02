@@ -977,11 +977,8 @@ https://production-premium-fashiontv-vidio.akamaized.net/slive/_definst_/ftv_pg1
 #EXTINF:-1 tvg-logo="" group-title="Fashion", FTV.COM HD2
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b2800000_t64NzIwcA==.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Fashion", FTV.COM HD1
-https://production-premium-fashiontv-vidio.akamaized.net/slive/_definst_/ftv_midnite_secrets_adaptive_v3.smil/chunklist_b4700000.m3u8
 
-
-#EXTINF:-1 tvg-logo="" group-title="Fashion", FTV.COM HD2
+#EXTINF:-1 tvg-logo="" group-title="Fashion", FTV.COM HD
 https://production-premium-fashiontv-vidio.akamaized.net/slive/_definst_/ftv_midnite_secrets_adaptive_v3.smil/chunklist_b2800000.m3u8
 
 
