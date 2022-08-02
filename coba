@@ -41,6 +41,12 @@ https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 http://210.210.155.35:80/qwr9ew/s/s04/01.m3u8
 https://visionplus-stream.visionplus.id/live/eds/INDOSIAR-ryzen/sa_hls/INDOSIAR-ryzen.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZqW5ff3y/images-18.jpg" group-title="INDONESIA",SCTV
+/http://210.210.155.35/session/58237d4a-5fd8-11ec-93dc-8efda5123c0b/qwr9ew/s/s04/02.m3u8?app_type=mobile&userid=2m4n6yjvyen&tkn=KRHYTUJF1CXB6NERN2PF249FY9E1XFRK&chname=SCTV
+http://210.210.155.35:80/qwr9ew/s/s04/01.m3u8
+https://visionplus-stream.visionplus.id/live/eds/SCTV-ryzen/sa_hls/SCTV-ryzen.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.sapibagus.com/wp-content/uploads/2015/11/logo-Net-tv.png" group-title="INDONESIA",NET TV
 http://45.126.83.51:80/qwr9ew/s/s08/01.m3u8
 https://visionplus-stream.visionplus.id/live/eds/NetTV-M1/sa_hls/NetTV-M1.m3u8
