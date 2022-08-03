@@ -1042,10 +1042,3 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_720p.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://miamitvhd.com/assets/miamitv-8fcf2efe186508c88b6ebd5441452254a32c410d1d18ea7f82ffbb0d26b35271.png" group-title="Fashion", Miami TV
-http://server.miamitvchannel.com/miamitv/smil:miamitvAPP1/chunklist_w1520548616_b1896000.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Y29tLnIzc3R1ZGlvLmZhc2NoYW5lbF9zY3JlZW5fM18xNTU1MDAxNTE3XzA4Nw/screen-3.jpg?fakeurl=1&type=.webp" group-title="Fashion", Fashion Bikini
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b900000_t64MzYwcA==.m3u8
-
