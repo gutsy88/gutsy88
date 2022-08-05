@@ -45,8 +45,8 @@ http://playlist.urfan.web.id/qwr9ew/s/s04/01.m3u8
 
 
 #EXTINF:-1 tvg-id="sctv.id" tvg-name="sctv" tvg-logo="https://i.ibb.co/dB1v6LR/sctvFIX.png" group-title="Indonesian Ch",SCTV
-http://210.210.155.35:80/session/65729a3e-2ecf-11eb-b0a7-c81f66f89318/qwr9ew/s/s03/01.m3u8
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a4446503011668def857b1c03bafabba51
+https://iptv.mwafa.net/vidio/204/index.m3u8?token=1999
+@@@@@@@http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a4446503011668def857b1c03bafabba51
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
