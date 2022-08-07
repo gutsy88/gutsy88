@@ -3,19 +3,26 @@ Update : 4 Aug 2022
 ===== deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 ===== deviceId=OTYyOGM0NmQtMjg5Yy0zYTEwLWE5NjQtMDYxOTFiZTM0MTQ3
 
-#EXTM3U 
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml"
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml"
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml	"
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml"
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/id/beinsports.com.epg.xml"
+@@@@@#EXTM3U 
+@@@@@#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml"
+@@@@@#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml"
+@@@@@#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml"
+@@@@@#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml"
+@@@@@#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/id/beinsports.com.epg.xml"
 
-#EXTM3U 
-#EXTM3U tvg-url="https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml"
-#EXTM3U tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml"
-#EXTM3U tvg-url="https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml	"
-#EXTM3U tvg-url="https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml"
-#EXTM3U tvg-url="https://iptv-org.github.io/epg/guides/id/beinsports.com.epg.xml"
+
+@@@@@#EXTM3U tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml"
+@@@@@#EXTM3U tvg-url="https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml"
+@@@@@#EXTM3U tvg-url="https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml	"
+@@@@@#EXTM3U tvg-url="https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml"
+@@@@@#EXTM3U tvg-url="https://iptv-org.github.io/epg/guides/id/beinsports.com.epg.xml"
+@@@@@#EXTM3U url-tvg="https://bit.ly/3itZsSm"
+@@@@@#EXTM3U x-url-tvg="https://bit.ly/3itZsSm"
+
+#EXTM3U                                    
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/mncvision.id.epg.xml"
+#EXTM3U x-url-tvg="https://iptv-org.github.io/epg/guides/id/mncvision.id.epg.xml"
+
 
 
 @@@@@@@ TV NASIONAL INDONESIA @@@@@@@
@@ -125,7 +132,7 @@ https://liveanevia.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="Indonesian Ch" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_103.jpg",Berita Satu News
+#EXTINF:-1 group-title="Indonesian Ch" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_103.jpg",Berita Satu
 https://liveanevia.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd
 
 
@@ -184,13 +191,13 @@ http://rr3.dens.tv/s/s73/index2.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=82934
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.mncvision.id/userfiles/image/channel/beIN-1.jpg",Bein Sports 1 ID
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.mncvision.id/userfiles/image/channel/beIN-1.jpg",BeIn Sports 1 Indonesia
 https://liveanevia.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.mncvision.id/userfiles/image/channel/beIN-2.jpg",Bein Sports 3 ID
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.mncvision.id/userfiles/image/channel/beIN-2.jpg",BeIN Sports 3 Indonesia
 https://liveanevia.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
 
 
@@ -307,7 +314,7 @@ https://liveanevia.mncnow.id/live/eds/AFN-HD/sa_dash_vmx/AFN-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://www.mncvision.id/userfiles/image/channel/HGTV_150x150px-01.png",HGTV Asia
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://www.mncvision.id/userfiles/image/channel/HGTV_150x150px-01.png",HGTV
 https://liveanevia.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd
 
 
