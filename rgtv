@@ -446,11 +446,11 @@ https://liveanevia.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
 
 
 #EXTINF:-1 tvg-logo="https://rubbyguntara.github.io/src/img/Rock_Entertainment.png" group-title="Entertainment",Rock Entertainment
-http://rr1.dens.tv/h/h16/index10.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=ROCK_Entertainment_HD
+http://rr1.dens.tv/h/h16/index10.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://rubbyguntara.github.io/src/img/Rock_Extreme.png" group-title="Entertainment",Rock_Extreme
-http://rr1.dens.tv/h/h15/index10.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=ROCK_Extreme_HD
+http://rr1.dens.tv/h/h15/index10.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9FHWBPcG/gem.png" group-title="Entertainment" ,GEM
