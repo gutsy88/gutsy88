@@ -13,9 +13,7 @@ Update : 7 Aug 2022
 @@@@@#EXTM3U url-tvg="https://macan.tv/xmltv.php?username=epg&password=epg"
 
                               
-                              
-#EXTM3U url-tvg="https://macan.tv/xmltv.php?username=epg&password=epg, https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml, https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml, https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml, https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml, https://iptv-org.github.io/epg/guides/id/beinsports.com.epg.xml" refresh="3600"
-
+#EXTM3U url-tvg="https://macan.tv/xmltv.php?username=epg&password=epg, https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml.gz, https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml.gz, https://iptv-org.github.io/epg/guides/id/useetv.com.epg.xml.gz, https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml.gz, https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml.gz, https://iptv-org.github.io/epg/guides/id/beinsports.com.epg.xml.gz refresh="3600"
 
 
 
