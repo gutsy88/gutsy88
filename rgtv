@@ -1089,3 +1089,30 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 tvg-logo="https://mobile.coolstreaming.us/blog/diretta-tv/resize.php?src=https://www.coolstreaming.us/img/ch/image94385599345.jpg&h=60&w=130&q=50" group-title="Fashion", A3 Bikini
 https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_720p.m3u8
 
+@@@@@@@@ FASHION @@@@@@@@
+
+
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19974578_ico.png?ts=1654806875" group-title="Fashion",Fashion TV 1
+https://fashiontv-fashiontv-2-es.samsung.wurl.com/manifest/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19974578_ico.png?ts=1654806875" group-title="Fashion", Fashion TV 2
+https://production-premium-fashiontv-vidio.akamaized.net/slive/_definst_/ftv_pg16_adaptive_v3.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19974578_ico.png?ts=1654806875" group-title="Fashion", Fashion TV 3
+http://production-premium-fashiontv-vidio.akamaized.net/fashion/_definst_/ftv_pg13_adaptive_v3.smil/chunklist_b4700000.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/LQqABbX.png?v=1.0.0.1" group-title="Fashion", Fashion TV Secret
+https://production-premium-fashiontv-vidio.akamaized.net/slive/_definst_/ftv_midnite_secrets_adaptive_v3.smil/chunklist_b4700000.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/55a44f9ce4b09a5577ad69df/1436833733301-WW7P6UWSAAZYCM5279ZW/long%2Blogo_kaloopy.jpg?format=1500w" group-title="Fashion", Kaloopy
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/federator/mhgf2xE/-0800/c.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://mobile.coolstreaming.us/blog/diretta-tv/resize.php?src=https://www.coolstreaming.us/img/ch/image94385599345.jpg&h=60&w=130&q=50" group-title="Fashion", A3 Bikini
+https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_720p.m3u8
+
+
