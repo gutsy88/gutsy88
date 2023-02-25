@@ -1,4 +1,4 @@
-Update : 18 Sep 2022
+Update : 25 Feb 23
 ===== deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 ===== deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 ===== deviceId=OTYyOGM0NmQtMjg5Yy0zYTEwLWE5NjQtMDYxOTFiZTM0MTQ3
@@ -10,12 +10,8 @@ Update : 18 Sep 2022
 @@@@@#EXTM3U tvg-url="https://iptv-org.github.io/epg/guides/id/beinsports.com.epg.xml.gz"
 @@@@@#EXTM3U url-tvg="https://macan.tv/xmltv.php?username=epg&password=epg"
 
-	
-
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml"
                               
-                              
-#EXTM3U url-tvg="https://macan.tv/xmltv.php?username=epg&password=epg, https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml.gz, https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml.gz, https://iptv-org.github.io/epg/guides/id/useetv.com.epg.xml.gz, https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml.gz, https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml.gz, https://iptv-org.github.io/epg/guides/id/beinsports.com.epg.xml.gz refresh="3600"
-
       
 
 @@@@@@@ TV NASIONAL INDONESIA @@@@@@@
