@@ -5,8 +5,7 @@ Update : 15 Maret 23
 
 @@@@@#EXTM3U url-tvg="https://macan.tv/xmltv.php?username=epg&password=epg"
 
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/indihometv.com.xml"
- 
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/indihometv.com.xml, https://macan.tv/xmltv.php?username=epg&password=epg" 
 
           
       
