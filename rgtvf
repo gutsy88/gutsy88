@@ -5,13 +5,8 @@ Update : 15 Maret 23
 
 @@@@@#EXTM3U url-tvg="https://macan.tv/xmltv.php?username=epg&password=epg"
 
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/indihometv.com.xml" 
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/mncvision.id.xml" 
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/transvision.co.id.xml" 
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/en/mncvision.id.xml" 
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/vidio.com.xml" 
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/en/beinsports.com.xml" 
-                            
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/indihometv.com.xml" url-tvg="https://iptv-org.github.io/epg/guides/id/mncvision.id.xml" url-tvg="https://iptv-org.github.io/epg/guides/id/transvision.co.id.xml" url-tvg="https://iptv-org.github.io/epg/guides/en/mncvision.id.xml" url-tvg="https://iptv-org.github.io/epg/guides/id/vidio.com.xml" url-tvg="https://iptv-org.github.io/epg/guides/en/beinsports.com.xml"  
+                         
       
 
 @@@@@@@ TV NASIONAL INDONESIA @@@@@@@
