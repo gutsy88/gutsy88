@@ -3,14 +3,14 @@ Update : 25 Feb 23
 ===== deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 ===== deviceId=OTYyOGM0NmQtMjg5Yy0zYTEwLWE5NjQtMDYxOTFiZTM0MTQ3
 
-@@@@@#EXTM3U tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml.gz"
-@@@@@#EXTM3U tvg-url="https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml.gz"
-@@@@@#EXTM3U tvg-url="https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml.gz"
-@@@@@#EXTM3U tvg-url="https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml.gz"
-@@@@@#EXTM3U tvg-url="https://iptv-org.github.io/epg/guides/id/beinsports.com.epg.xml.gz"
 @@@@@#EXTM3U url-tvg="https://macan.tv/xmltv.php?username=epg&password=epg"
 
-#EXTM3U tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml" 
+#EXTM3U tvg-url="https://iptv-org.github.io/epg/guides/id/indihometv.com.xml" 
+#EXTM3U tvg-url="https://iptv-org.github.io/epg/guides/id/mncvision.id.xml" 
+#EXTM3U tvg-url="https://iptv-org.github.io/epg/guides/id/transvision.co.id.xml" 
+#EXTM3U tvg-url="https://iptv-org.github.io/epg/guides/en/mncvision.id.xml" 
+#EXTM3U tvg-url="https://iptv-org.github.io/epg/guides/id/vidio.com.xml" 
+#EXTM3U tvg-url="https://iptv-org.github.io/epg/guides/en/beinsports.com.xml" 
                             
       
 
