@@ -1,40 +1,36 @@
-Update : 18 Sep 2022
+Update : 15 Maret 23
 ===== deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 ===== deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 ===== deviceId=OTYyOGM0NmQtMjg5Yy0zYTEwLWE5NjQtMDYxOTFiZTM0MTQ3
 
-@@@@@#EXTM3U tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml.gz"
-@@@@@#EXTM3U tvg-url="https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml.gz"
-@@@@@#EXTM3U tvg-url="https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml.gz"
-@@@@@#EXTM3U tvg-url="https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml.gz"
-@@@@@#EXTM3U tvg-url="https://iptv-org.github.io/epg/guides/id/beinsports.com.epg.xml.gz"
 @@@@@#EXTM3U url-tvg="https://macan.tv/xmltv.php?username=epg&password=epg"
 
-	
-
-                              
-                              
-#EXTM3U url-tvg="https://macan.tv/xmltv.php?username=epg&password=epg, https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml.gz, https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml.gz, https://iptv-org.github.io/epg/guides/id/useetv.com.epg.xml.gz, https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml.gz, https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml.gz, https://iptv-org.github.io/epg/guides/id/beinsports.com.epg.xml.gz refresh="3600"
-
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/indihometv.com.xml" 
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/mncvision.id.xml" 
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/transvision.co.id.xml" 
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/en/mncvision.id.xml" 
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/vidio.com.xml" 
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/en/beinsports.com.xml" 
+                            
       
 
 @@@@@@@ TV NASIONAL INDONESIA @@@@@@@
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTYyOGM0NmQtMjg5Yy0zYTEwLWE5NjQtMDYxOTFiZTM0MTQ3
 #EXTINF:-1 group-title="Indonesian Ch" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_80.png",RCTI
 https://av-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTYyOGM0NmQtMjg5Yy0zYTEwLWE5NjQtMDYxOTFiZTM0MTQ3
 #EXTINF:-1 group-title="Indonesian Ch" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_81.png",GTV
 https://av-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTYyOGM0NmQtMjg5Yy0zYTEwLWE5NjQtMDYxOTFiZTM0MTQ3
 #EXTINF:-1 group-title="Indonesian Ch" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_82.png",MNC TV
 https://av-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
@@ -52,19 +48,18 @@ https://av-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 https://av-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 
 
+#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar" tvg-logo="https://i.ibb.co/m8bVM26/indosiar-FIX.png" group-title="Indonesian Ch",Indosiar Dens
+http://210.210.155.35/qwr9ew/s/s04/02.m3u8
+
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar" tvg-logo="https://i.ibb.co/m8bVM26/indosiar-FIX.png" group-title="Indonesian Ch",Indosiar
-http://playlist.urfan.web.id/qwr9ew/s/s04/01.m3u8
-@@@@http://rr2.dens.tv/s/s04/index.m3u8
-@@@@http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d69446503011668def857b1c03bafabba51
+https://etslive-2-vidio-com.akamaized.net/exp=1670769169~acl=/vp9/205_stream.mpd!/vp9/205/*!/vp9/*/205_stream.mpd!/vp9/*/205/*~hmac=ac86251fd7af3c2e23224a929847caf293f9b9ea63fc5a66581404aa080e0dd6/vp9/205_stream.mpd
 
 
+#EXTINF:-1 tvg-id="sctv.id" tvg-name="sctv" tvg-logo="https://i.ibb.co/dB1v6LR/sctvFIX.png" group-title="Indonesian Ch",SCTV Dens
+http://210.210.155.35/qwr9ew/s/s03/01.m3u8
 
 #EXTINF:-1 tvg-id="sctv.id" tvg-name="sctv" tvg-logo="https://i.ibb.co/dB1v6LR/sctvFIX.png" group-title="Indonesian Ch",SCTV
-http://playlist.urfan.web.id/qwr9ew/s/s03/01.m3u8
-@@@@http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a4446503011668def857b1c03bafabba51
-@@@@http://rr2.dens.tv/s/s03/index.m3u8
-
-
+https://etslive-2-vidio-com.akamaized.net/exp=1670768731~acl=/vp9/204_stream.mpd!/vp9/204/*!/vp9/*/204_stream.mpd!/vp9/*/204/*~hmac=e85da792be9e3982d5bce53236f40184bd3be99c56e9350a59572ce54ab0e0ff/vp9/204_stream.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1062,32 +1057,6 @@ https://av-live-cdn.mncnow.id/live/eds/Life/sa_dash_vmx/Life.mpd
 https://av-live-cdn.mncnow.id/live/eds/Reformed21/sa_dash_vmx/Reformed21.mpd
 
 
-
-@@@@@@@@ FASHION @@@@@@@@
-
-
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19974578_ico.png?ts=1654806875" group-title="Fashion",Fashion TV 1
-https://fashiontv-fashiontv-2-es.samsung.wurl.com/manifest/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19974578_ico.png?ts=1654806875" group-title="Fashion", Fashion TV 2
-https://production-premium-fashiontv-vidio.akamaized.net/slive/_definst_/ftv_pg16_adaptive_v3.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19974578_ico.png?ts=1654806875" group-title="Fashion", Fashion TV 3
-http://production-premium-fashiontv-vidio.akamaized.net/fashion/_definst_/ftv_pg13_adaptive_v3.smil/chunklist_b4700000.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/LQqABbX.png?v=1.0.0.1" group-title="Fashion", Fashion TV Secret
-https://production-premium-fashiontv-vidio.akamaized.net/slive/_definst_/ftv_midnite_secrets_adaptive_v3.smil/chunklist_b4700000.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/55a44f9ce4b09a5577ad69df/1436833733301-WW7P6UWSAAZYCM5279ZW/long%2Blogo_kaloopy.jpg?format=1500w" group-title="Fashion", Kaloopy
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/federator/mhgf2xE/-0800/c.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://mobile.coolstreaming.us/blog/diretta-tv/resize.php?src=https://www.coolstreaming.us/img/ch/image94385599345.jpg&h=60&w=130&q=50" group-title="Fashion", A3 Bikini
-https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_720p.m3u8
 
 @@@@@@@@ FASHION @@@@@@@@
 
