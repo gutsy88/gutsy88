@@ -3,9 +3,9 @@ Update : 15 Maret 23
 ===== deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 ===== deviceId=OTYyOGM0NmQtMjg5Yy0zYTEwLWE5NjQtMDYxOTFiZTM0MTQ3
 
-@@@@@#EXTM3U url-tvg="https://macan.tv/xmltv.php?username=epg&password=epg"
+@@@@@ EXTM3U url-tvg="https://macan.tv/xmltv.php?username=epg&password=epg" @@@@@@
 
-@@@@@#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml, https://macan.tv/xmltv.php?username=epg&password=epg" 
+@@@@@ EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml, https://macan.tv/xmltv.php?username=epg&password=epg" @@@@@
 
 #EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml"     
       
